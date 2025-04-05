@@ -1,3 +1,5 @@
+#problem-->> majority elements in the array
+
 class Solution:
     # Function to find the majority elements in the array
     def findMajority(self, arr):
