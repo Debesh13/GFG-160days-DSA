@@ -1,3 +1,6 @@
+#problem--->Minimize The Height 
+#Time Com--:O(n logn)
+#Space Com--:O(1)
 class Solution:
     def getMinDiff(self, arr,k):
         # code here
