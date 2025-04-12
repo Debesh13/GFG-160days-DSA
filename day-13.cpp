@@ -1,3 +1,6 @@
+//Smallest Positive Missing Number
+//Time Complexity:O(n)
+//Space Complexity:O(1)
 class Solution {
     public:
       // Function to find the smallest positive number missing from the array.
